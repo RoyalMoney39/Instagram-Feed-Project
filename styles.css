@@ -1,0 +1,35 @@
+html, body {
+    background-color: lightgrey;
+    margin:0;
+    padding:0;
+    
+}
+div.container{
+    margin-top: 5%;
+}
+header{
+    background-color: white;
+    text-align: center;
+}
+.post{
+    background-color: white;
+    width: 450px;
+    height: 550px;
+   margin:0 auto;
+}
+ img{
+    width: 450px;
+    
+ }
+ div.post .header div:first-child{
+    display: inline-block;
+    width: 80%;
+ }
+ div.post .header div:last-child{
+    display: inline-block;
+    width: 18%;
+ }
+ .footer{
+    background-color: white;
+    text-align: center; 
+ }
